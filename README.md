@@ -2,6 +2,13 @@
 
 HTML CSS Git Challenge: Code Refractor
 
+
+GitHub: https://github.com/minutemin/homework-01
+
+GitPages: https://minutemin.github.io/homework-01/
+
+![screen shot of refractor challenge](./assets/images/Hmwk01SS.jpg)
+
 ## Description ##
 
 HTML CSS Git Challenge: Code Refractor
@@ -16,7 +23,6 @@ First I created a new repo in my github and committed a README markdown file and
 ## Usage
 
 To use this website, there are navigation bar at the top, which will direct you to the section below that refers to it.  
-
 
 ## Credits
 
