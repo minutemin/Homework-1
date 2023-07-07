@@ -3,7 +3,7 @@
 HTML CSS Git Challenge: Code Refractor
 
 
-GitHub: [https://github.com/minutemin/homework-01-Refactoring](https://github.com/minutemin/Refactoring-html-and-CSS)
+GitHub: https://github.com/minutemin/Refactoring-html-and-CSS
 
 GitPages: https://minutemin.github.io/Refactoring-html-and-CSS/
 
